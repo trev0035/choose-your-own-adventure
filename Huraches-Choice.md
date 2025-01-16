@@ -1,4 +1,4 @@
-#You Choose the Huaraches
+# You Choose the Huaraches
 
 Your feet slide into the sparkling huaraches. The ground feels lighter underneath as soon as you tie the straps, and an odd warmth fills you. It seems as though the ground is directing you with every step.
 
