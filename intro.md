@@ -10,6 +10,8 @@ You feel a strange attraction toward the stall, as if it is calling to you. The 
 
 **What do you do next?**
 
-[Choose the Mirror](Mirror-Choice.md)
+- [Choose the Mirror](Mirror-Choice.md)
+- [Pick the Huaraches](Huraches-Choice.md)
+- [Get closer to the glowing stall to check the items](glowing_stall.md)
+- [Ignore the stall and keep following your cousin around the market](market_walk.md)
 
-[Pick the Huaraches](Huraches-Choice.md)
