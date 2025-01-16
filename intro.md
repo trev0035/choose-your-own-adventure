@@ -10,6 +10,6 @@ You feel a strange attraction toward the stall, as if it is calling to you. The 
 
 **What do you do next?**
 
-Choose the Mirror
+[Choose the Mirror](choose-your-own-adventure/Mirror-Choice.md)
 
-Pick the Huaraches
+[Pick the Huaraches](choose-your-own-adventure/Huaraches-Choice.md)
