@@ -9,3 +9,5 @@ As you walk around, something catches your eye: a stall hidden in the shadows, w
 You feel a strange attraction toward the stall, as if it is calling to you. The old man gestures to the objects. "Go ahead, pick one. But be warned: once you pick, your trip begins."
 
 **What do you do next?**
+- [Get closer to the glowing stall to check the items](glowing_stall.md)
+- [Ignore the stall and keep following your cousin around the market](market_walk.md)
