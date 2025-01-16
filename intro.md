@@ -12,4 +12,4 @@ You feel a strange attraction toward the stall, as if it is calling to you. The 
 
 [Choose the Mirror](Mirror-Choice.md)
 
-[Pick the Huaraches](Huaraches-Choice.md)
+[Pick the Huaraches](Huraches-Choice.md)
