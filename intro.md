@@ -10,6 +10,6 @@ You feel a strange attraction toward the stall, as if it is calling to you. The 
 
 **What do you do next?**
 
-Get closer to the glowing stall to check the items
+Choose the Mirror
 
-Ignore the stall and keep following your cousin around the market
+Pick the Huaraches
