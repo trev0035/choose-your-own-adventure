@@ -4,4 +4,4 @@ The mirror feels warm in your hands, its surface rippling as you touch it. Sudde
 
 You turn to ask the old man for answers, but his stall is empty. The mirror in your hands shimmers, but the reflection shows nothing of the market you just left. A chill runs down your spine as you realize: Where are you?
 
-Ahead, a weak lantern illuminates a tiny lane that extends into the darkness. As though this location existed outside of time and is only waiting for you to act, the air is still.
+A little lane leads into the darkness, lit by a weak lamp. The air seems calm, as if this place existed outside of time and is just waiting for you to do something.
